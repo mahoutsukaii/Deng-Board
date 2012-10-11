@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Deng Board</string>
+    <string name="username_string">Username:</string>
+    <string name="password_string">Password:</string>
+    <string name="login_text">Log in</string>
+
+
+</resources>
